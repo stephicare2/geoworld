@@ -12,7 +12,7 @@ Projet pédagogique pour étudiant apprenti développeur.
 * Base de SQL
 * Base de HTML/CSS
 
-### Prétention du projet
+### Présentation du projet
 
 * Apprendre à travailler sur la base d'un existant simple
 * Apprendre à respecter des conventions de codage
